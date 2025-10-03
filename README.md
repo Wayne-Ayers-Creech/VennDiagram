@@ -1,5 +1,8 @@
 # GeneVennDiagram
 
+If you use GeneVenn in your research, please cite:
+
+Ayers-Creech, W. (2025). GeneVenn: A standalone Venn diagram & bioinformatics tool (Version 1.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.xxxxxx
 A standalone desktop app for visualizing gene list overlaps with Venn diagrams.  
 Designed for ease of use in research workflows — no coding required.  
 
